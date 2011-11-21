@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: pyrpaper.aux
+The style file: elsarticle-num.bst
+Database file #1: library.bib
+Repeated entry---line 3137 of file library.bib
+ : @article{Schellekens2009
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Snajdr2010"
+Warning--I didn't find a database entry for "Klotzbucher2007"
+Warning--I didn't find a database entry for "Oksanen2011"
+Warning--I didn't find a database entry for "Schwarzinger??"
+You've used 10 entries,
+            2937 wiz_defined-function locations,
+            776 strings with 8183 characters,
+and the built_in function-call counts, 3571 in all, are:
+= -- 375
+> -- 103
+< -- 0
++ -- 41
+- -- 31
+* -- 339
+:= -- 513
+add.period$ -- 16
+call.type$ -- 10
+change.case$ -- 10
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 95
+empty$ -- 369
+format.name$ -- 40
+if$ -- 876
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 52
+num.names$ -- 10
+pop$ -- 51
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 165
+stack$ -- 0
+substring$ -- 265
+swap$ -- 30
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 30
+width$ -- 12
+write$ -- 107
+(There was 1 error message)
